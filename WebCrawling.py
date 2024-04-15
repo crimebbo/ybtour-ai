@@ -1,7 +1,7 @@
 import time
 
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 #from langchain_openai.llms import OpenAI
 # import streamlit as st
 from langchain.llms import CTransformers
